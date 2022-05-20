@@ -1,24 +1,178 @@
 [
   {
-    "question": "",
-    "dificulty": "1/2/3",
+    "question": "Qual dos países abaixo não faz fronteira com a China?",
+    "dificulty": "easy",
     "answers": [
-      { "answer": "resposta 1", "isCorrect": false },
-      { "answer": "resposta 2", "isCorrect": true },
-      { "answer": "resposta 3", "isCorrect": false },
-      { "answer": "resposta 4", "isCorrect": false }
+      { "answer": "Tailândia", "isCorrect": true },
+      { "answer": "Índia", "isCorrect": false },
+      { "answer": "Rússia", "isCorrect": false },
+      { "answer": "Mongólia", "isCorrect": false }
     ],
-    "article": "texto do porquê"
+    "article": "O sul da Tailândia está inserido no istmo de Kart, faixa de terra que divide com Mianmar e que conecta parte da Malásia ao restante do continente. Ainda, a parcela meridional do país é banhada pelo mar do Sul da China, a leste, na região em que se forma o Golfo da Tailândia (ou Golfo de Sião), e também pelo mar de Andamão, a oeste, que é parte do oceano Índico."
   },
   {
-    "question": "",
-    "dificulty": "1/2/3",
+    "question": "Em área (km²), o Brasil é aproximadamente quantas vezes maior que Portugal?",
+    "dificulty": "medium",
     "answers": [
-      { "answer": "resposta 1", "isCorrect": false },
-      { "answer": "resposta 2", "isCorrect": true },
-      { "answer": "resposta 3", "isCorrect": false },
-      { "answer": "resposta 4", "isCorrect": false }
+      { "answer": "96 vezes", "isCorrect": true },
+      { "answer": "7 vezes", "isCorrect": false },
+      { "answer": "54 vezes", "isCorrect": false },
+      { "answer": "10 vezes", "isCorrect": false }
     ],
-    "article": "texto do porquê"
+    "article": "Você sabia que o Brasil é o quinto maior país do mundo em extensão territorial? O país ocupa uma área de 8.547.403 km² no planeta Terra. Os países maiores que ele são: Estados Unidos, China, Canadá e Rússia."
+  },
+  {
+    "question": "É uma descarga elétrica de grande intensidade que ocorre na atmosfera:",
+    "dificulty": "easy",
+    "answers": [
+      { "answer": "raio", "isCorrect": true },
+      { "answer": "relâmpago", "isCorrect": false },
+      { "answer": "erupção", "isCorrect": false },
+      { "answer": "terremoto", "isCorrect": false }
+    ],
+    "article": "Os raios são descargas elétricas que ocorrem quando as nuvens se carregam eletricamente. São vistos através de trajetórias irregulares e ramificadas com aproximadamente 2 a 5 cm. Para que tal descarga aconteça é necessário que o solo tenha carga elétrica oposta à contida nas nuvens, pois dessa forma ocorre a atração entre elas e por fim a descarga é liberada pela nuvem."
+  },
+  {
+    "question": "O rio São Francisco é popularmente conhecido como:",
+    "dificulty": "easy",
+    "answers": [
+      { "answer": "Velho Chico", "isCorrect": true },
+      { "answer": "Franchico", "isCorrect": false },
+      { "answer": "Chico balanceado", "isCorrect": false },
+      { "answer": "Chiquinho do Brasil", "isCorrect": false }
+    ],
+    "article": "É um dos mais importantes cursos de água do Brasil e da América do Sul. O rio passa por cinco estados e 521 municípios, sendo sua nascente geográfica no município de Medeiros e sua nascente histórica na serra da Canastra, no município de São Roque de Minas, centro-oeste de Minas Gerais."
+  },
+  {
+    "question": "O rio Paraná passa por três países, que são:",
+    "dificulty": "medium",
+    "answers": [
+      { "answer": "Brasil, Argentina e Paraguai", "isCorrect": true },
+      { "answer": "Brasil, Uruguai e Paraguai", "isCorrect": false },
+      { "answer": "Brasil, Uruguai e Chile", "isCorrect": false },
+      { "answer": "Brasil, Uruguai e Colômbia", "isCorrect": false }
+    ],
+    "article": "É considerado, em sua extensão total até a foz do Estuário da Prata, o oitavo maior rio do mundo em extensão (4.880 km) e o maior da América do Sul depois do Amazonas. Sua bacia hidrográfica abrange mais de 10% de todo o território brasileiro, sendo a continuação do Rio Grande, recebendo o nome de Rio Paraná na confluência com o rio Paranaíba."
+  },
+  {
+    "question": "A antiga Iugoslávia foi dividida em vários países, entre os quais não está:",
+    "dificulty": "hard",
+    "answers": [
+      { "answer": "Eslováquia", "isCorrect": true },
+      { "answer": "Croácia", "isCorrect": false },
+      { "answer": "Sérvia", "isCorrect": false },
+      { "answer": "Macedônia do Norte", "isCorrect": false }
+    ],
+    "article": "A Iugoslávia, no mapa, era um território localizado no sudeste da Europa, banhado pelo mar Adriático e localizado na península dos Balcãs. Suas fronteiras margeiam Itália, Hungria, Albânia, Romênia, Bulgária, Grécia e Áustria."
+  },
+  {
+    "question": "Em qual região brasileira está localizado o estado do Tocantins?",
+    "dificulty": "easy",
+    "answers": [
+      { "answer": "Norte", "isCorrect": true },
+      { "answer": "Nordeste", "isCorrect": false },
+      { "answer": "Centro-oeste", "isCorrect": false },
+      { "answer": "Sudeste", "isCorrect": false }
+    ],
+    "article": "Ocupa uma área de 277 720,520 km², pouco maior que o Equador e a Nova Zelândia, sendo a décima maior unidade federativa em área territorial no Brasil. Com mais de 1,6 milhão de habitantes, é o quarto estado mais populoso da Região Norte e o vigésimo quarto mais populoso do Brasil."
+  },
+  {
+    "question": "Os Países Baixos também são conhecidos como...",
+    "dificulty": "hard",
+    "answers": [
+      { "answer": "Holanda", "isCorrect": true },
+      { "answer": "Reino Unido", "isCorrect": false },
+      { "answer": "República Checa", "isCorrect": false },
+      { "answer": "Bósnia e Herzegovina", "isCorrect": false }
+    ],
+    "article": "Geograficamente, os Países Baixos são um país de baixa altitude, com cerca de 27% de sua área e 60% de sua população situados abaixo do nível do mar."
+  },
+  {
+    "question": "A capital dos Emirados Árabes Unidos é:",
+    "dificulty": "medium",
+    "answers": [
+      { "answer": "Abu Dhabi", "isCorrect": true },
+      { "answer": "Doha", "isCorrect": false },
+      { "answer": "Dubai", "isCorrect": false },
+      { "answer": "Arábia Saudita", "isCorrect": false }
+    ],
+    "article": "Os Emirados Árabes Unidos (abreviado como EAU) são uma confederação árabe localizada no Golfo Pérsico, formada por monarquias, cada uma detendo sua soberania, chamadas emirados (equivalentes a principados). Os Emirados Árabes Unidos estão situados no sudeste da península Arábica e fazem fronteira com Omã e com a Arábia Saudita. Os sete emirados são Abu Dhabi, Dubai, Xarja, Ajmã, Umm al-Quwain, Ras al-Khaimah e Fujeira."
+  },
+  {
+    "question": "Acapulco é uma...",
+    "dificulty": "medium",
+    "answers": [
+      { "answer": "cidade mexicana", "isCorrect": true },
+      { "answer": "capital europeia", "isCorrect": false },
+      { "answer": "ilha do Caribe", "isCorrect": false },
+      { "answer": "cachoeira em Foz do Iguaçu", "isCorrect": false }
+    ],
+    "article": "É uma cidade e porto mexicano localizado no estado de Guerrero, no sudoeste do país, na costa do Pacífico. É cabeceira do município homônimo."
+  },
+  {
+    "question": "Todas as cidades listadas abaixo são capitais de seus países. Qual delas não fica na Europa?",
+    "dificulty": "hard",
+    "answers": [
+      { "answer": "Beirute", "isCorrect": true },
+      { "answer": "Praga", "isCorrect": false },
+      { "answer": "Dublin", "isCorrect": false },
+      { "answer": "Berlim", "isCorrect": false }
+    ],
+    "article": "Beirute é a capital e maior cidade do Líbano. Segundo estimativas de 2007, cerca de 2 milhões de habitantes moram na Grande Beirute. Localizada em uma península no Mediterrâneo, Beirute é o maior e principal porto marítimo do país."
+  },
+  {
+    "question": "A região da Groenlândia pertence a qual país?",
+    "dificulty": "medium",
+    "answers": [
+      { "answer": "Dinamarca", "isCorrect": true },
+      { "answer": "Canadá", "isCorrect": false },
+      { "answer": "México", "isCorrect": false },
+      { "answer": "Espanha", "isCorrect": false }
+    ],
+    "article": "O seu território ocupa a ilha com o mesmo nome, considerada a maior do mundo, além de diversas ilhas vizinhas, ao largo da costa nordeste da América do Norte."
+  },
+  {
+    "question": "O português não é um idioma oficial em qual destes países?",
+    "dificulty": "hard",
+    "answers": [
+      { "answer": "Nicarágua", "isCorrect": true },
+      { "answer": "Angola", "isCorrect": false },
+      { "answer": "Guiné-Bissau", "isCorrect": false },
+      { "answer": "Portugal", "isCorrect": false }
+    ],
+    "article": "A população da Nicarágua é estimada em 6 038 652 habitantes sendo, em sua maior parte, multiétnica. Sua capital, Manágua, é a terceira maior cidade da América Central. A língua principal é o espanhol, embora outras línguas nativas sejam faladas por tribos da costa oriental, como o misquito, sumo e rama, além de um inglês crioulo."
+  },
+  {
+    "question": "O que significa extrativismo?",
+    "dificulty": "easy",
+    "answers": [
+      { "answer": "extrair da natureza produtos para fins comerciais ou industriais", "isCorrect": true },
+      { "answer": "processo que investiga a existência de extraterrestres", "isCorrect": false },
+      { "answer": "estudo da estrutura externa de um ser vivo", "isCorrect": false },
+      { "answer": "utilizar processos de escavação para a coleta e estudo de fósseis", "isCorrect": false }
+    ],
+    "article": "Extrativismo é uma atividade caracterizada pela retirada de recursos do meio ambiente, tais como metais, rochas, petróleo, gás natural, vegetais, entre outros. Essa prática é realizada desde a pré-história, sendo de fundamental importância para a sobrevivência do homem."
+  },
+  {
+    "question": "Qual o país cujo mapa lembra o formato de uma bota?",
+    "dificulty": "easy",
+    "answers": [
+      { "answer": "Itália", "isCorrect": true },
+      { "answer": "Inglaterra", "isCorrect": false },
+      { "answer": "França", "isCorrect": false },
+      { "answer": "Argentina", "isCorrect": false }
+    ],
+    "article": "A Itália é uma república parlamentar unitária localizada no centro-sul da Europa. Ao norte, faz fronteira com França, Suíça, Áustria e Eslovênia ao longo dos Alpes. A parte sul consiste na totalidade da península Itálica, Sicília, Sardenha, as duas maiores ilhas no mar Mediterrâneo, e muitas outras ilhas menores ficam no entorno do território italiano."
+  },
+  {
+    "question": "O que é a Eurásia?",
+    "dificulty": "hard",
+    "answers": [
+      { "answer": "massa que forma em conjunto a Europa e a Ásia", "isCorrect": true },
+      { "answer": "grupo dos países mais influentes do mundo", "isCorrect": false },
+      { "answer": "tratado que possibilita aos pesquisadores europeus trabalharem na Ásia", "isCorrect": false },
+      { "answer": "o ar atmosférico em movimento natural", "isCorrect": false }
+    ],
+    "article": "A Eurásia é a massa que forma em conjunto a Europa e a Ásia. Composto pelos continentes europeu e asiático, separados pela cordilheira dos Montes Urais, localizado na Rússia, pelo Rio Ural, pelo Mar Negro e pelo Mar Cáspio. Alguns países como a Rússia e Turquia estão nos dois continentes."
   }
 ]
