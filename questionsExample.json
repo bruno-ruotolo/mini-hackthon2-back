@@ -1,0 +1,24 @@
+[
+  {
+    "question": "",
+    "dificulty": "1/2/3",
+    "answers": [
+      { "answer": "resposta 1", "isCorrect": false },
+      { "answer": "resposta 2", "isCorrect": true },
+      { "answer": "resposta 3", "isCorrect": false },
+      { "answer": "resposta 4", "isCorrect": false }
+    ],
+    "article": "texto do porquê"
+  },
+  {
+    "question": "",
+    "dificulty": "1/2/3",
+    "answers": [
+      { "answer": "resposta 1", "isCorrect": false },
+      { "answer": "resposta 2", "isCorrect": true },
+      { "answer": "resposta 3", "isCorrect": false },
+      { "answer": "resposta 4", "isCorrect": false }
+    ],
+    "article": "texto do porquê"
+  }
+]
