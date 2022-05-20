@@ -174,5 +174,227 @@
       { "answer": "o ar atmosférico em movimento natural", "isCorrect": false }
     ],
     "article": "A Eurásia é a massa que forma em conjunto a Europa e a Ásia. Composto pelos continentes europeu e asiático, separados pela cordilheira dos Montes Urais, localizado na Rússia, pelo Rio Ural, pelo Mar Negro e pelo Mar Cáspio. Alguns países como a Rússia e Turquia estão nos dois continentes."
+    },
+    {
+    "question": "Qual região do Brasil se encontra o Mato Grosso do Sul?",
+    "dificulty": "easy",
+    "answers": [
+      { "answer": "Centro-Oeste", "isCorrect": true },
+      { "answer": "Sudeste", "isCorrect": false },
+      { "answer": "Sul", "isCorrect": false },
+      { "answer": "Norte", "isCorrect": false }
+    ],
+    "article": "Mato Grosso do Sul se encontra no Centro-Oeste, junto de outros Estados como Goiás, Distrito Federal e Mato Grosso."
+  },
+  {
+    "question": "Embora o Brasil esteja colocado entre os países mais populosos do mundo, quando se relaciona sua população total com a área do país, obtém-se um número relativamente baixo. A essa relação de população x área, damos o nome de:",
+    "dificulty": "medium",
+    "answers": [
+      { "answer": "Densidade demográfica", "isCorrect": true },
+      { "answer": "Índice de desenvolvimento", "isCorrect": false },
+      { "answer": "Taxa de Crescimento", "isCorrect": false },
+      { "answer": "Taxa de natalidade", "isCorrect": false }
+    ],
+    "article": "Densidade demográfica corresponde à distribuição da população em uma determinada área. Também chamado de densidade populacional ou população relativa, esse índice demográfico representa, portanto, uma média entre a área de um determinado lugar e o total de habitantes que nela se encontram."
+  },
+  {
+    "question": "As pirâmides etárias são representações gráficas fundamentais para o estudo da geografia das populações. Quais são as duas variáveis utilizadas nesses gráficos?",
+    "dificulty": "hard",
+    "answers": [
+      { "answer": "Idade e sexo", "isCorrect": true },
+      { "answer": "Renda e idade", "isCorrect": false },
+      { "answer": "Natalidade e gênero", "isCorrect": false },
+      { "answer": "Longevidade e renda", "isCorrect": false }
+    ],
+    "article": "As pirâmides etárias são representações gráficas que apresentam duas variáveis. A primeira delas se refere à divisão da população por sexo; já a segunda indica a divisão por idades da população total."
+  },
+  {
+    "question": "Os países desenvolvidos são caracterizados pelas pirâmides etárias com base estreita e topo largo. Essa característica é decorrente do:",
+    "dificulty": "hard",
+    "answers": [
+      {
+        "answer": "Aumento da expectativa de vida da população",
+        "isCorrect": true
+      },
+      {
+        "answer": "Elevado número de adultos em idade ativa",
+        "isCorrect": false
+      },
+      {
+        "answer": "Processo de rejuvenescimento da sociedade",
+        "isCorrect": false
+      },
+      {
+        "answer": "Baixo índice de qualidade de vida local",
+        "isCorrect": false
+      }
+    ],
+    "article": "Os países desenvolvidos apresentam, no geral, pirâmides etárias com base estreita e topo largo. Portanto, as populações desses países são caracterizadas pela baixa taxa de natalidade e pela alta expectativa de vida. Esse tipo de pirâmide indica o envelhecimento de uma população."
+  },
+  {
+    "question": "As taxas de natalidade e mortalidade representam importantes elementos estatísticos para a compreensão da dinâmica populacional no que concerne ao seu:",
+    "dificulty": "hard",
+    "answers": [
+      { "answer": "Crescimento natural", "isCorrect": true },
+      { "answer": "Índice de densidade demográfica", "isCorrect": false },
+      { "answer": "Nível de fecundidade", "isCorrect": false },
+      { "answer": "Crescimento absoluto", "isCorrect": false }
+    ],
+    "article": "A diminuição das taxas de natalidade pelas de mortalidade perfaz o cálculo do crescimento vegetativo ou natural de uma dada população em um determinado período de tempo."
+  },
+  {
+    "question": "O movimento de translação consiste na",
+    "dificulty": "medium",
+    "answers": [
+      {
+        "answer": "Movimentação que a Terra realiza em torno do Sol ao longo de aproximadamente 365 dias",
+        "isCorrect": true
+      },
+      {
+        "answer": "Deslocação da Terra ao redor de si mesma ao longo de 24 horas",
+        "isCorrect": false
+      },
+      {
+        "answer": "Trajetória que a terra faz ao redor do Sol durante 360 dias terrestres",
+        "isCorrect": false
+      },
+      {
+        "answer": "Ocorrência do processo de movimentação da Terra ao redor de si mesma ao longo do dia",
+        "isCorrect": false
+      }
+    ],
+    "article": "O movimento de translação é o realizado pelo planeta Terra em torno do Sol. Ele dura aproximadamente 365 dias e é responsável por fenômenos como as estações do ano e a sucessão dos anos."
+  },
+  {
+    "question": "O movimento de rotação tem uma duração aproximada de 24 horas. Esse movimento é responsável pelo",
+    "dificulty": "medium",
+    "answers": [
+      { "answer": "Movimento aparente do Sol", "isCorrect": true },
+      { "answer": "Aumento das marés", "isCorrect": false },
+      { "answer": "Processo de sucessão dos anos", "isCorrect": false },
+      { "answer": "Surgimento das estações do ano", "isCorrect": false }
+    ],
+    "article": "A rotação do planeta Terra é a responsável pelo movimento aparente do Sol, ou seja, a movimentação visível do Sol, com base na superfície terrestre, que ocorre no sentido leste-oeste."
+  },
+  {
+    "question": "Em que região se encontra o Piauí?",
+    "dificulty": "easy",
+    "answers": [
+      { "answer": "Nordeste", "isCorrect": true },
+      { "answer": "Norte", "isCorrect": false },
+      { "answer": "Sudeste", "isCorrect": false },
+      { "answer": "Centro-Oeste", "isCorrect": false }
+    ],
+    "article": "Piauí se encontra na região Nordeste, junto a outros estados como Bahia, Pernambuco, Alagoas, entre outros."
+  },
+  {
+    "question": "Em que região se encontra o Tocantins?",
+    "dificulty": "easy",
+    "answers": [
+      { "answer": "Norte", "isCorrect": true },
+      { "answer": "Nordeste", "isCorrect": false },
+      { "answer": "Sudeste", "isCorrect": false },
+      { "answer": "Centro-Oeste", "isCorrect": false }
+    ],
+    "article": "Tocantins se encontra na região Norte, junto a outros estados como Rio Grande do Norte, Amazonas, Roraima, entre outros."
+  },
+  {
+    "question": "Qual cor não faz parte da bandeira do Brasil?",
+    "dificulty": "easy",
+    "answers": [
+      { "answer": "Vermelho", "isCorrect": true },
+      { "answer": "Azul", "isCorrect": false },
+      { "answer": "Verde", "isCorrect": false },
+      { "answer": "Amarelo", "isCorrect": false }
+    ],
+    "article": "A bandeira do Brasil possui as cores: azul, branco, verde e o amarelo."
+  },
+  {
+    "question": "Qual a maior cidade do Brasil?",
+    "dificulty": "medium",
+    "answers": [
+      { "answer": "São Paulo", "isCorrect": true },
+      { "answer": "Rio de Janeiro", "isCorrect": false },
+      { "answer": "Brasília", "isCorrect": false },
+      { "answer": "Porto Alegre", "isCorrect": false }
+    ],
+    "article": "O município de São Paulo conta com cerca de 12 milhões de habitantes."
+  },
+  {
+    "question": "Política do Café com Leite derivou-se a Política dos Governadores e visava a governância de Oligarcas da época. Quais estados originaram essa política?",
+    "dificulty": "medium",
+    "answers": [
+      { "answer": "São Paulo e Minas Gerais", "isCorrect": true },
+      { "answer": "Rio Grande do Sul e Pernambuco", "isCorrect": false },
+      { "answer": "São Paulo e Rio Grande do Sul", "isCorrect": false },
+      { "answer": "Rio de Janeiro e Minas Gerais", "isCorrect": false }
+    ],
+    "article": "Os estados de São Paulo — com grande produção de café — e Minas Gerais — produtor de leite e maior polo eleitoral do país de então —, impedindo que o principal cargo do Poder Executivo fosse ocupado por representante dos interesses de outros estados economicamente importantes à época, como Rio Grande do Sul e Pernambuco. Essa política perdurou até a Revolução de 1930."
+  },
+  {
+    "question": "Qual o Estado brasileiro que em relação a Greenwich possui no seu fuso horário menos 5 horas?",
+    "dificulty": "medium",
+    "answers": [
+      { "answer": "Acre", "isCorrect": true },
+      { "answer": "Amazonas", "isCorrect": false },
+      { "answer": "Pará", "isCorrect": false },
+      { "answer": "Mato Grosso", "isCorrect": false }
+    ],
+    "article": ""
+  },
+  {
+    "question": "Qual é o continente localizado ao Sul da Europa?",
+    "dificulty": "easy",
+    "answers": [
+      { "answer": "África", "isCorrect": true },
+      { "answer": "Ásia", "isCorrect": false },
+      { "answer": "América do Sul", "isCorrect": false },
+      { "answer": "Europeu", "isCorrect": false }
+    ],
+    "article": "África está ao Sul da Europa."
+  },
+  {
+    "question": "Qual o estado Norte Americano que faz fronteiro com o Canadá?",
+    "dificulty": "medium",
+    "answers": [
+      { "answer": "Alasca", "isCorrect": true },
+      { "answer": "Flórida", "isCorrect": false },
+      { "answer": "Havaí", "isCorrect": false },
+      { "answer": "California", "isCorrect": false }
+    ],
+    "article": "O Alasca é uma gigantesca península. O Estado limita-se a norte com o oceano Ártico, a oeste com o estreito de Bering (o qual separa o Alasca da Rússia) e ao sul com o mar de Bering. O Alasca limita-se a leste com o território canadense de Yukon e com a província canadense de Colúmbia Britânica."
+  },
+  {
+    "question": "Continente onde o Brasil está localizado?",
+    "dificulty": "easy",
+    "answers": [
+      { "answer": "América do Sul", "isCorrect": true },
+      { "answer": "América Central", "isCorrect": false },
+      { "answer": "Ásia", "isCorrect": false },
+      { "answer": "Europa", "isCorrect": false }
+    ],
+    "article": "O Brasil é o maior país da América do Sul. Sendo considerado um país com tamanho continental."
+  },
+  {
+    "question": "Linha imaginária que atravessa o Brasil:",
+    "dificulty": "easy",
+    "answers": [
+      { "answer": "Equador", "isCorrect": true },
+      { "answer": "Trópico de Câncer", "isCorrect": false },
+      { "answer": "Círculo Polar Ártico", "isCorrect": false },
+      { "answer": "Greenwich", "isCorrect": false }
+    ],
+    "article": "A linha do Equador atravessa o Brasil. Ela promove a divisão do planeta em dois hemisférios: Norte e Sul. Trata-se do ponto de partida para a medida das latitudes, sendo, por isso, o paralelo de 0º."
+  },
+  {
+    "question": " Nome do continente gelado que fica no hemisfério sul.",
+    "dificulty": "hard",
+    "answers": [
+      { "answer": "Antártica", "isCorrect": true },
+      { "answer": "Polo Sul", "isCorrect": false },
+      { "answer": "Polo Norte", "isCorrect": false },
+      { "answer": "Patagônia", "isCorrect": false }
+    ],
+    "article": "Antártica é o mais meridional de todos os continentes. Com uma área de 14,4 milhões de quilômetros quadrados, é o quinto maior continente do mundo; nele se localiza o Pólo Sul, o ponto mais meridional da Terra."
   }
 ]
