@@ -3,7 +3,7 @@ import joi from "joi";
 
 export async function getScore(req, res) {
   try {
-    const scoreCollection = await db.collection("score");
+    const scoreCollection = await db.collection("scores");
     const scores = await scoreCollection.find({}).toArray();
     res.status(200).send(scores);
   } catch (e) {
@@ -25,7 +25,7 @@ export async function postScore(req, res) {
   }
 
   try {
-    const scoreCollection = await db.collection("score");
+    const scoreCollection = await db.collection("scores");
     await scoreCollection.insertOne(req.body);
     res.sendStatus(201);
   } catch (e) {
